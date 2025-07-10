@@ -1,0 +1,2 @@
+# Analyzing-Multimodal-Biometric-Data-with-Occluded-Facial-Conditions
+This project analyzes how combining face and voice embeddings improves biometric authentication when facial features are partially hidden (e.g., by scarves or glasses). Using precomputed facial landmarks (SOF dataset) and ECAPA-TDNN voice embeddings (Mozilla Common Voice), we show that feature-level fusion greatly boosts performance.
